@@ -14,7 +14,7 @@ A simple face anti-spoofing based on CNN trained with HSV + YCrCb color feature.
 ### Usage:<br>
 * Data prepare:<br>
 		1) Download train data and model file from:<br>
-		   https://drive.google.com/drive/folders/1HH7t366ZCdwTUcWpVGSY7kY0yZjoWCcn?usp=sharing
+			https://drive.google.com/drive/folders/1HH7t366ZCdwTUcWpVGSY7kY0yZjoWCcn?usp=sharing
 		
 		2) untar data and model to your project dir
 * Train model:<br>
